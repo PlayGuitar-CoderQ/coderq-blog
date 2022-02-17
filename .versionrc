@@ -1,0 +1,69 @@
+{
+  "types": [
+    {
+      "type": "chore",
+      "section": "版本记录",
+      "hidden": false
+    },
+    {
+      "type": "style",
+      "section": "其他"
+    },
+    {
+      "type": "pref",
+      "section": "提升性能"
+    },
+    {
+      "type": "refactor",
+      "section": "调整代码"
+    },
+    {
+      "type": "revert",
+      "section": "其他"
+    },
+    {
+      "type": "test",
+      "section": "代码测试"
+    },
+    {
+      "type": "docs",
+      "section": "文档、注释"
+    },
+    {
+      "type": "release",
+      "section": "版本记录"
+    },
+    {
+      "type": "workflow",
+      "section": "其他"
+    },
+    {
+      "type": "mod",
+      "section": "其他"
+    },
+    {
+      "type": "wip",
+      "section": "其他"
+    },
+    {
+      "type": "types",
+      "section": "其他"
+    },
+    {
+      "type": "update",
+      "section": "调整代码"
+    },
+    {
+      "type": "init",
+      "section": "其他"
+    },
+    {
+      "type": "feat",
+      "section": "新增功能"
+    },
+    {
+      "type": "fix",
+      "section": "调整代码"
+    }
+  ]
+}

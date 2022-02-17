@@ -1,12 +1,14 @@
 {
   "name": "coderq-blog",
   "private": true,
+  "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "release": "standard-version"
   },
   "dependencies": {
     "next": "12.0.10",
@@ -22,6 +24,7 @@
     "eslint": "8.9.0",
     "eslint-config-next": "12.0.10",
     "husky": "^7.0.4",
+    "standard-version": "^9.3.2",
     "typescript": "4.5.5"
   }
 }
