@@ -1,0 +1,9 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+. "$(dirname "$0")/common.sh"
+
+[ -n "$CI" ] && exit 0
+
+
+# 根据 lint-stagedrc配置格式化并提交代码
+npm run lint:lint-staged
