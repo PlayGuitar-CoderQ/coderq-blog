@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "prepare": "husky install",
-    "release": "standard-version"
+    "release": "standard-version",
+    "lint:stylelint": "stylelint --fix \"**/*.{tsx,less,postcss,css,scss}\" --cache --cache-location node_modules/.cache/stylelint/"
   },
   "dependencies": {
     "next": "12.0.10",
@@ -25,6 +26,10 @@
     "eslint-config-next": "12.0.10",
     "husky": "^7.0.4",
     "standard-version": "^9.3.2",
+    "stylelint": "^14.5.1",
+    "stylelint-config-prettier": "^9.0.3",
+    "stylelint-config-standard": "^25.0.0",
+    "stylelint-order": "^5.0.0",
     "typescript": "4.5.5"
   }
 }
