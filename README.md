@@ -22,6 +22,7 @@
 ## 🧬 &nbsp; <b>技术栈（后续持续增加新技术）</b>
 
 - [![license](https://img.shields.io/badge/React-17.0.2-blue?logo=React)](LICENSE) - 采用比较主流的 React 框架版本
+- [![license](https://img.shields.io/badge/Less-17.0.2-blue?logo=Less)](LICENSE) - 流行的 css 预处理器
 - [![license](https://img.shields.io/badge/Next.js-12.0.10-white?logo=Next.js)](LICENSE) - 基于 React 的同构解决方案，优秀的 ssr 框架
 - [![license](https://img.shields.io/badge/Typescript-4.5.5-gray?logo=Typescript)](LICENSE) - Javascript 的超集，前端工程师的新利器
 

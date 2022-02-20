@@ -13,7 +13,8 @@
     "lint:lint-staged": "lint-staged",
     "lint:eslint": "eslint \"src/**/*.{vue,ts,tsx}\" --fix",
     "lint:stylelint": "stylelint --fix \"**/*.{tsx,less,postcss,css,scss}\" --cache --cache-location node_modules/.cache/stylelint/",
-    "git:all": "git push coding-origin main && git push gitee-origin main && git push github-origin main && git push gitlab-origin main"
+    "git:coding": "git push coding-origin main",
+    "git:all": "git push gitee-origin main && git push github-origin main && git push gitlab-origin main"
   },
   "dependencies": {
     "next": "12.0.10",
