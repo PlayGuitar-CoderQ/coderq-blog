@@ -1,7 +1,7 @@
 <br>
 <p align="center">
 <a href="https://sli.dev" target="_blank">
-<img src="https://static01.imgkr.com/temp/bfc1e4e2d4b24ec588ba58a4a1ba5bf3.png" alt="CoderQ" height="250" width="250"/>
+<img src="https://coderq-website-1305021979.cos.ap-guangzhou.myqcloud.com/uPic/coderq_logo.png" alt="CoderQ" height="270" width="270"/>
 </a>
 </p>
 
