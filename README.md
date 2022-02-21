@@ -37,6 +37,35 @@
 
 <br/>
 
+## 🖥 &nbsp; <b>项目的脚本命令</b>
+
+```shell
+ # yarn [命令]
+
+ yarn dev
+
+ yarn build
+
+```
+
+- dev: 启动开发环境
+- build: 打包项目，用于发布生产
+- start: 生产环境启动项目
+- prepare: 安装 node_modules 依赖的时候回触发该命令，husky 安装对应的 git 钩子
+- release: 管控 package.json 版本，并生成对应的版本 CHANGELOG.md
+- lint:pretty: prettier 格式化 git 暂存空间的代码
+- lint:lint-staged: 对暂存的代码文件运行 linter
+- lint:eslint: 运行 eslint，匹配自定义规则进行修复代码
+- lint:stylelint: 运行 stylelint，匹配自定义规则修复样式代码
+- git:coding: 提交代码到本人的 coding 敏捷开发平台仓库。
+- git:all: 提交代码到 gitee、github、gitlab 上。
+
+<br>
+
+> 🤓 这里解释一下为什么有两个**git**的脚本命令。因为在 coding 平台上有着十分优秀的流程管控，有着完善的**ci/cd**功能，和**测试功能**，他能保障我提交的代码是符合测试并且能成功发布预览起来的，所以才区分开提交**coding**和其他仓库的命令。这样 coding 里的提交代码检查完成后，即可手动触发，也能通过集成工具触发提交到其他仓库的命令了 -- **git:all**
+
+<br>
+
 ## 🙋‍♂️ 着重申明
 
 - 本项目大量样式代码都借鉴与 hexo-theme-aurora 项目，但未必一模一样，实现手法也未必一样，请悉知。

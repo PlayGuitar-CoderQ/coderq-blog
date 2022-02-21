@@ -6,7 +6,6 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
     "prepare": "husky install",
     "release": "standard-version",
     "lint:pretty": "pretty-quick --staged",
