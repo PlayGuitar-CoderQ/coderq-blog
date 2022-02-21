@@ -1,14 +1,7 @@
-<br>
 <p align="center">
-<a href="https://sli.dev" target="_blank">
 <img src="https://coderq-website-1305021979.cos.ap-guangzhou.myqcloud.com/uPic/coderq_logo.png" alt="CoderQ" height="270" width="270"/>
-</a>
-</p>
-
-<br/>
-
  <h1 align="center"> ~ 弹吉他🎸的Coder_Q 🤖 - 博客平台 ~</h1>
-
+</p>
 ## 🗿 &nbsp; <b>特征<b/>
 
 - 💈 样式基于 hexo 比较受欢迎的主题 - hexo-theme-aurora，进行模仿改造

@@ -26,6 +26,6 @@
     "./node_modules/@types/",
   ],
   "baseUrl": ".",
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "jest.config.js", "__test__/index.test.jsx"],
   "exclude": ["node_modules", "**/*.js"]
 }
