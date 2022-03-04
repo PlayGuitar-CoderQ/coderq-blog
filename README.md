@@ -2,6 +2,7 @@
 <img src="https://coderq-website-1305021979.cos.ap-guangzhou.myqcloud.com/uPic/coderq_logo.png" alt="CoderQ" height="270" width="270"/>
  <h1 align="center"> ~ 弹吉他🎸的Coder_Q 🤖 - 博客平台 ~</h1>
 </p>
+
 ## 🗿 &nbsp; <b>特征<b/>
 
 - 💈 样式基于 hexo 比较受欢迎的主题 - hexo-theme-aurora，进行模仿改造
@@ -15,7 +16,8 @@
 ## 🧬 &nbsp; <b>技术栈（后续持续增加新技术）</b>
 
 - [![license](https://img.shields.io/badge/React-17.0.2-blue?logo=React)](LICENSE) - 采用比较主流的 React 框架版本
-- [![license](https://img.shields.io/badge/Less-17.0.2-blue?logo=Less)](LICENSE) - 流行的 css 预处理器
+- [![license](https://img.shields.io/badge/Sass-17.0.2-CC6699?logo=Sass)](LICENSE) - 流行的 css 预处理器
+- [![license](https://img.shields.io/badge/TailwindCSS-17.0.2-06B6D4?logo=TailwindCSS)](LICENSE) - 拥有树摇，原子类等功能的 css 框架
 - [![license](https://img.shields.io/badge/Next.js-12.0.10-white?logo=Next.js)](LICENSE) - 基于 React 的同构解决方案，优秀的 ssr 框架
 - [![license](https://img.shields.io/badge/Typescript-4.5.5-gray?logo=Typescript)](LICENSE) - Javascript 的超集，前端工程师的新利器
 
@@ -58,6 +60,18 @@
 > 🤓 这里解释一下为什么有两个**git**的脚本命令。因为在 coding 平台上有着十分优秀的流程管控，有着完善的**ci/cd**功能，和**测试功能**，他能保障我提交的代码是符合测试并且能成功发布预览起来的，所以才区分开提交**coding**和其他仓库的命令。这样 coding 里的提交代码检查完成后，即可手动触发，也能通过集成工具触发提交到其他仓库的命令了 -- **git:all**
 
 <br>
+
+<br>
+
+## 🦾 # QAQ
+
+1. 问：为什么一些提交快照(记录)背后带有井字符有什么特殊意义吗？<br>
+
+- 答：这个是 coding 的任务项编号，每个提交对应它完成的任务功能。
+
+- <img src="https://coderq-website-1305021979.cos.ap-guangzhou.myqcloud.com/uPic/WechatIMG943.png" alt="CoderQ" />
+
+<br/>
 
 ## 🙋‍♂️ 着重申明
 
