@@ -27,7 +27,19 @@ module.exports = {
       true,
       {
         // 忽略不被违规的选项
-        ignoreAtRules: ['function', 'if', 'each', 'include', 'mixin'],
+        ignoreAtRules: [
+          'function',
+          'if',
+          'each',
+          'include',
+          'mixin',
+          'tailwind',
+          'layer',
+          'apply',
+          'variants',
+          'responsive',
+          'screen',
+        ],
       },
     ],
     // 禁止空来源
